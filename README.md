@@ -1,4 +1,4 @@
-# VM-Project-
+# Virtaul Machines Creation
 
 HOW TO CREATE VIRTUAL MACHINES ON YOUR DESKTOP!!
 
@@ -15,14 +15,15 @@ OPERATING SYSTEM USED:
 INSTALATION STEPS:
 * Log on to Azure
 * Search resourse group
-* Fill out info
+* Fill out information
 * Select Create Resource Group
 * Search Virtual Machines
-* Fill out info 
-* 
-*
-*
+* Fill out information 
+* Select Create
 
 
-LIST OF PREREQUISITS:
+DEMONSTRATION:
+
+
+
 
