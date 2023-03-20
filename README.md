@@ -1,6 +1,7 @@
 # Virtaul Machines Creation
 
 HOW TO CREATE VIRTUAL MACHINES ON YOUR DESKTOP!!
+We will be using our desktops to log in to azure.com and create virtual machines.
 
 
 ENVIRIONMENTS and TECHNOLOGIES USED:
