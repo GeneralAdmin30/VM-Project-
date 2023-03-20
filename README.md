@@ -13,11 +13,13 @@ OPERATING SYSTEM USED:
 
 
 INSTALATION STEPS:
-*
-*
-*
-*
-*
+* Log on to Azure
+* Search resourse group
+* Fill out info
+* Select Create Resource Group
+* Search Virtual Machines
+* Fill out info 
+* 
 *
 *
 
