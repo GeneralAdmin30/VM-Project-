@@ -27,6 +27,23 @@ INSTALATION STEPS:
 
 DEMONSTRATION:
 
+https://imgur.com/a/JZECaCU
+
+https://imgur.com/a/nHxDbMg
+
+https://imgur.com/a/xhK0DDZ
+
+https://imgur.com/a/PiuJVwd
+The resource show show up on you home screen.
+
+
+https://imgur.com/a/IDBGUFf
+
+https://imgur.com/a/AbFXZOP
+
+https://imgur.com/a/p8TbO5G
+
+
 
 
 
