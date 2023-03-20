@@ -1,1 +1,18 @@
 # VM-Project-
+
+Setting Up Virtual Mahines On Your PC
+
+ENVIRIONMENTS and TECHNOLOGIES USED
+
+
+
+OPERATING SYSTEM USED
+
+
+
+
+
+INSTALATION STEPS 
+
+
+
